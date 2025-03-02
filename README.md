@@ -21,7 +21,6 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python">
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/XBOX_logo_2012.svg" height="30" alt="xbox">
 </div>
 
 <div align="center">
