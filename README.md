@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=++%24+Loding..;+💩Welcome+to+my+Profile💩" alt="Typing SVG" />
+  <img>
 </h2>
 
 <div align="center">
